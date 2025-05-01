@@ -1,6 +1,6 @@
 # ✨ Me : 
 ### Hi There I'm Rizki 
-I'm a Fullstack Developer
+I'm a Fullstack Developer ,
 interested in backend and frontend 
 ##### This my [portfolio](https://www.rizkiarp.my.id/)
 #### Skills
